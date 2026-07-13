@@ -1,0 +1,1 @@
+export const LOCATION_TIP = 'Please allow location in your browser, make sure GPS is enabled, and turn on location accuracy / precise location on your device.'
